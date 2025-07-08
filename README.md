@@ -21,7 +21,7 @@
 
 ```bash
 # Перейдите в директорию проекта
-cd /Users/vladimirgavrilenko/GolandProjects/Juggler
+cd .../Juggler
 
 # Запустите приложение (с портом по умолчанию 8080)
 go run cmd/app/main.go
